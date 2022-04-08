@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bibhuti1996
 - 👀 I’m interested in Python and Java
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Spring
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/bibhuti-bhusan-mohanty-41b2a3131/
 
